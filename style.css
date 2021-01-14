@@ -1,0 +1,23 @@
+body{
+    background-color: darkcyan;
+    text-align: center;
+}
+
+div{
+    margin-top: 20px;
+}
+
+.image-section{
+    display: flex;
+    justify-content: center;
+}
+
+.section-style{
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+img{
+        height:270px;
+    width:270px;
+}
